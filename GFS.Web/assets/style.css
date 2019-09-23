@@ -1,0 +1,81 @@
+﻿body {
+    font-family: Arial
+}
+
+.header {
+    height: 70px;
+    margin: 1% 2%;
+    padding-top: 1%;
+}
+
+.header img {
+    float: right;
+    width: 40%;
+    height: 70px;
+    padding: 2% 0;
+}
+
+p {
+    line-height: 0.3;
+    font-size: 16px;
+}
+
+table {
+    table-layout: auto;
+    width: 96%;
+    border-collapse: collapse;
+    margin: 2% 2%;
+}
+
+h1 {
+    text-align: left;
+    font-size: 18px;
+    color: #000000;
+}
+
+h2 {
+    margin-left: 2%;
+    text-align: left;
+    font-size: 18px;
+    color: #000000;
+    text-decoration: underline;
+}
+
+th {
+    table-layout: auto;
+    border: 2px solid #BBBBBB;
+    font-size: 14px;
+    width: auto;
+    text-align: center;
+}
+
+
+td {
+    table-layout: auto;
+    width: auto;
+    font-size: 12px;
+    border: 1px solid #BBBBBB;
+    text-align: center;
+}
+
+
+.items {
+    background-color: #b4c6e7;
+    width: 90%;
+    color: white;
+}
+
+.furnitureInfo {
+    padding-top: 2%;
+    margin: 2% 2%;
+    width: 96%;
+    text-align: center;
+}
+
+legend {
+    font-size: 10px;
+}
+
+fieldset {
+    background-color: #ffd966;
+}
